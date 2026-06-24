@@ -1,6 +1,4 @@
-# List of all books
+# List of all books, topic wise
 
-## System Design
+## 1. [System Design](./system_design/)
 
-1. [Designing Data Intensive Applications](./ddia.pdf)
-2. 
